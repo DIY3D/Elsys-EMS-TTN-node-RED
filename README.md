@@ -7,19 +7,19 @@ Recently I got my hands on this nice small indoor LoRaWan sensor whit different 
 You can open the case with the help of a small screwdriver, slit between the bottom and the upper part.
 Here are some pictures from the inside.
 
-<img src="Images/Overview.jpg" width="300" >
+<img src="Images/Overview.jpg" width="650" >
 <b>Elsys EMS parts</b>
 <p></p>
-<img src="Images/PCB-Frontside.jpg" width="300" >
+<img src="Images/PCB-Frontside.jpg" width="650" >
 <b>Elsys EMS frontside</b>
 <p></p>
-<img src="Images/teardown.png" width="300" >
+<img src="Images/teardown.png" width="650" >
 <b>Elsys EMS teardown</b>
 <p></p>
-<img src="Images/PCB-Backside.jpg" width="300" >
+<img src="Images/PCB-Backside.jpg" width="650" >
 <b>Elsys EMS backsider</b>
 <p></p>
-<img src="Images/waterdetector contacts.jpg" width="300" >
+<img src="Images/waterdetector contacts.jpg" width="650" >
 <b>Leak detection contact</b>
 <p></p>
 
@@ -55,13 +55,13 @@ Port: 1
 
 I created an application in node-RED with a dashboard:
 
-<img src="Images/node-RED_testflow.png" width="300" >
+<img src="Images/node-RED_testflow.png" width="650" >
 <b>For testing wire to the inject node</b>
 <p></p>
-<img src="Images/node-RED_flow.png" width="300" >
+<img src="Images/node-RED_flow.png" width="650" >
 <b>The flow, with dashboard, pushover, status led and text to speak nodes</b>
 <p></p
-<img src="Images/node-RED_dashboard.png" width="300" >
+<img src="Images/node-RED_dashboard.png" width="650" >
 <b>The node-RED dashboard</b>
 <p></p
 
