@@ -21,7 +21,11 @@ Here are some pictures from the inside.
 <b>Elsys EMS backsider</b>
 <p></p>
 <img src="Images/leak_detection_contacts.png" width="650" >
-<b>Leak detection contact</b>
+<b>Leak detection contact...Important:</b>There is no battery plus and minus indication to be found so I used a marker
+<p></p>
+<p></p>
+
+<b>Configuration:</b>
 <p></p>
 
 This sensor is equipped with NFC (Near Field Communication) for easy configuration with an Android phone. With the application "Sensor Settings" you can create your own configuration settings and upload them to the Elsys EMS sensor using this NFC feature.
