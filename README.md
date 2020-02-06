@@ -63,12 +63,10 @@ I created an application in node-RED with a dashboard:
 <p></p>
 <img src="Images/node-RED_flow.png" width="650" >
 <b>The flow, with dashboard, pushover, status led and text to speak nodes</b>
-<p></p
+<p></p>
 <img src="Images/node-RED_dashboard.png" width="300" >
-<b>The node-RED dashboard</b>
-<p></p
-
-
+<b>node-RED dashboard</b>
+<p></p>
 
 
 
