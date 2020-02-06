@@ -15,7 +15,7 @@ Here are some pictures from the inside.
 <b>Elsys EMS frontside</b>
 <p></p>
 <img src="Images/teardown.png" width="650" >
-<b>Elsys EMS teardown</b>
+<b>Elsys EMS teardown, on the left two supercaps for a longer battery life</b>
 <p></p>
 <img src="Images/PCB-Backside.jpg" width="650" >
 <b>Elsys EMS backsider</b>
