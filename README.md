@@ -4,6 +4,7 @@ Elsys indoor LoRaWan wireless sensor with TTN and node-RED
 Recently I got my hands on this nice small indoor LoRaWan sensor whit different features like Temperature, Humidity, Leak detection, Magnetic switch Acceleration, NFC and a battery life time of approx. 10years. I registered this device in  the TTN Console and created an application with node-RED that reads the temperature, humidity, battery voltage and reedrelay status.
 
 <b>What's inside?</b>
+<p></p>
 You can open the case with the help of a small screwdriver, slit between the bottom and the upper part.
 Here are some pictures from the inside.
 
@@ -19,7 +20,7 @@ Here are some pictures from the inside.
 <img src="Images/PCB-Backside.jpg" width="650" >
 <b>Elsys EMS backsider</b>
 <p></p>
-<img src="Images/waterdetector.jpg" width="650" >
+<img src="Images/leak_detection_contacts.png" width="650" >
 <b>Leak detection contact</b>
 <p></p>
 
@@ -28,6 +29,7 @@ This sensor is equipped with NFC (Near Field Communication) for easy configurati
 The very comprehensive, clear site contains all the information needed to bring this sensor online. You can find there: Datasheets, Usermanuals, Firmware versions, documentation about the Android App, battery life calculator, Downlink generator, NFC coding, Javascript payload decoder, TTN payload decoder ... in short super extensive site. Fine!! https://www.elsys.se/en/lora-ems/
 
 <b>Steps to take:</b>
+<p></p>
 
 1. Install "Sensor Settings" Android app on your smartphone.
 
@@ -52,6 +54,7 @@ Port: 1
 7. Configuration is transferred via NFC.
 
 <b>node-RED flow</b>
+<p></p>
 
 I created an application in node-RED with a dashboard:
 
