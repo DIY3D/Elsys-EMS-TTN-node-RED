@@ -1,7 +1,7 @@
 # Elsys-EMS-TTN-node-RED
 Elsys indoor LoRaWan wireless sensor with TTN and node-RED
 
-Recently I got my hands on this nice small indoor LoRaWan sensor whit different features like Temperature, Humidity, Leak detection, Magnetic switch Acceleration, NFC and a battery life time of approx. 10years. I registered this device in  the TTN Console and created an application with node-RED that reads the temperature, humidity, battery voltage and reedrelay status.
+I recently visited The Things Conference in Amsterdam and bought this nice small indoor LoRaWan sensor whit different features like Temperature, Humidity, Leak detection, Magnetic switch Acceleration, NFC and a battery life time of approx. 10years. I registered this device in  the TTN Console and created an application with node-RED that reads the temperature, humidity, battery voltage and reedrelay status.
 
 <b>What's inside?</b>
 <p></p>
