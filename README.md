@@ -19,7 +19,7 @@ Here are some pictures from the inside.
 <img src="Images/PCB-Backside.jpg" width="650" >
 <b>Elsys EMS backsider</b>
 <p></p>
-<img src="Images/waterdetector contacts.jpg" width="650" >
+<img src="Images/waterdetector.jpg" width="650" >
 <b>Leak detection contact</b>
 <p></p>
 
