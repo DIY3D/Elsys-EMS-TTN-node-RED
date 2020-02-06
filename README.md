@@ -72,7 +72,9 @@ I created an application in node-RED with a dashboard that provides the Temperat
 <img src="Images/node-RED_dashboard.png" width="650" >
 <b>node-RED dashboard</b>
 <p></p>
-
+<img src="Images/DashboardSmartphone_Wall panel.png" width="300" >
+<b>Dashboard on smartphone with the "WallPanel" android app</b>
+<p></p>
 
 
   
