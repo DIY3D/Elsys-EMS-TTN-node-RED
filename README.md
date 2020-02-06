@@ -39,7 +39,8 @@ The very comprehensive, clear site contains all the information needed to bring 
 
 2. Switch on NFC on your smartphone
 
-3. Create a new Application + new Device in TTNconsole. Device ID can be found in android app under sensor settings.
+3. Create a new Application + new Device in TTNconsole. Device ID can be found in android app under sensor settings. Copy the      payload decoder (scroll down @ https://www.elsys.se/en/elsys-payload/) to the "Payload Formats" tab in your TTN console.
+
 
 4. For OTAA join, App EUI and AppKey copy from ttnconsole to phone (I have converted notation from upper case and spaces in TTN to lower case, no spaces in Android app).
 
@@ -60,8 +61,8 @@ Port: 1
 <b>node-RED flow</b>
 <p></p>
 
-I created an application in node-RED with a dashboard:
-
+I created an application in node-RED with a dashboard that provides the Temperature, Humidity, Battery Voltage, Led relay status, Text to Speak nodes and "test inject node" with an comlpleet Elsys EMS json payload string.
+<p></p>
 <img src="Images/node-RED_testflow.png" width="300" >
 <b>For testing wire to the inject node</b>
 <p></p>
